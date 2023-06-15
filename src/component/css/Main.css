@@ -1,0 +1,84 @@
+.parentContainer{
+    background-color: rgb(227 131 131 / 42%) !important;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+.Main-container{
+    box-shadow: 2px 0px 10px 1px black;
+    border-radius: 5px;
+    width: 60%;
+    height: 65%;
+}
+.FirstContainer{
+    background-color: rgb(22 17 16);
+    color: #fff;
+    width: 40%;
+}
+
+.FirstContainerImg{
+    width: 50%;
+    margin: 0 auto;
+}
+.Firstinner{
+    text-align: center;
+}
+.Firstinner p{
+    text-align: center;
+}
+.Firstinner p:nth-child(2){
+    color: green;
+}
+
+.Second-container{
+    width: 60%;
+    background-color: #fff;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.LoginOption img{
+    width: 20%;
+}
+.LoginOption div{
+    align-items: center;
+    color: rgb(189,187,185);
+    background: rgb(249,246,242);
+    border-radius: 5px;
+    padding: 2px 8px;
+    margin: 1em 1em 2em;
+}
+.LoginOption a{
+    text-decoration: none;
+}
+.Second-container form{
+    width: 70%;
+    margin: 0 auto;
+}
+.Second-container form a{
+   float: right;
+    font-size: 12px;
+    margin: 10px 0px;
+    color: blue;
+    text-decoration: none;
+}
+.Second-container input[type='submit']{
+    text-align: center;
+    font-size: 15px;
+    color: #fff;
+    background-color: rgb(243,86,68);
+    border: none;
+    width: 8em;
+    border-radius: 3px;
+    height: 3em;
+ }
+ .newUser p{
+    float: right;
+    text-align: right;
+    font-size: 12px;
+    margin: 2em 0px;
+    color: grey;
+ }

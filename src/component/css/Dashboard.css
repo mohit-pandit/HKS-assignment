@@ -1,0 +1,20 @@
+.MainDashboardContainer {
+    background-color: #979493;
+    width: 100vw;
+    height: 100vh;
+}
+
+.sidebar {
+    margin: 10px;
+    height: 98vh;
+    border-radius: 5px;
+}
+.TaskPara{
+    padding: 0.5em 2em;
+    margin: 0;
+    font-weight: 800;
+    color: rgb(28, 147, 237);
+    font-size: 24px;
+    background-color: #fff;
+    border-radius: 5px;
+}
